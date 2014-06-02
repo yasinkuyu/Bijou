@@ -1,6 +1,3 @@
-# Bijou Minimal Icons CSS Sprites
-PNG, CSS files ony `35 kb`
-
 ![Bijou Minimal Icons CSS Sprites](https://raw.githubusercontent.com/yasinkuyu/Bijou/master/screenshot.png)
 
 ## Basic usage
@@ -159,6 +156,9 @@ PNG, CSS files ony `35 kb`
   * .play
   * .volume-off
   * .wine
+  
+# Bijou Minimal Icons CSS Sprites
+PNG, CSS files ony `35 kb`
 
 # Contribution
 Fork & Pull Request
