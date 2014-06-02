@@ -1,4 +1,4 @@
 Bijou
 =====
 
-Bijou Minimal Icons CSS Sprites
+Bijou Icon Set Sprites

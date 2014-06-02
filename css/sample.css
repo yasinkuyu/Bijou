@@ -1,0 +1,76 @@
+/*
+
+	Yasin Kuyu 
+	02/06/2014
+	
+	Icon Sprites
+	github.com/yasinkuyu/Bijou
+	twitter.com/yasinkuyu
+
+	Icon Designer
+	Visual Idiot
+	https://github.com/idiot/Bijou
+
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	background: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400; 
+	text-align: center;
+}
+
+h1{
+	font-weight: 
+}
+
+#wrapper {
+	padding: 20px;
+	width: 600px; margin: 0 auto;
+	text-align: justify;
+}
+
+#black,
+#white {
+	padding: 20px;
+	border-radius: 6px;
+}
+
+#black {
+	background: #e3e5e8;
+}
+
+#white {
+	background: #005cb7;
+}
+
+.codeblack,
+.codewhite{
+	padding: 10px;
+	background: #e3e5e8;
+	border-radius: 6px;
+}
+
+.codeblack{
+	border-radius: 6px;
+}
+
+.codewhite {
+	background: #005cb7; color: white;
+}
+
+.list {
+	padding: 10px;
+	list-style: none;
+}
+
+.list li{
+	padding: 5px 10px;
+	background: #e3e5e8;
+	border-radius: 6px;
+	list-style: none;
+	margin-top: 5px;
+	display: inline-block;
+}
