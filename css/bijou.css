@@ -1,0 +1,192 @@
+/*
+
+	Yasin Kuyu 
+	02/06/2014
+
+	Icon Sprites
+	github.com/yasinkuyu/Bijou
+	twitter.com/yasinkuyu
+
+	Icon Designer
+	Visual Idiot
+	https://github.com/idiot/Bijou
+
+*/
+
+.basket, .pencil, .plane, .add, .afro, 
+.album, .anchor, .android, .apple, .balloon, 
+.battery, .bell, .bin, .binoculars, .boat, 
+.briefcase-medical, .briefcase, .cd-alt, .cd, .calculator, 
+.calendar, .call, .camera-alt, .camera, .car, 
+.castle, .chrome, .clipboard, .clock, .clothes, 
+.cloud, .coathanger, .comment, .compass, .computer, 
+.contrast, .crop, .cross, .damn-hippies, .dashboard, 
+.dice, .direction, .dislike, .down, .download, 
+.drink, .dropdown, .email, .external-link, .face-alt, 
+.factory, .film, .filter, .flag, .game, 
+.gavel, .glasses, .globe, .guitar, .hand-cursor, 
+.hardware, .headphones, .heart, .house, .inbox, 
+.key, .lamp, .left, .life-ring, .lightbulb, 
+.lightning, .like, .location-services, .loupe, .male, 
+.moon, .notification, .paper-plane, .person, .photo, 
+.pie-chart, .piggy-bank, .pok-ball, .printer-alt, .printer, 
+.projector, .propeller, .quick-look, .quote, .remove, 
+.reply, .right, .save, .search, .settings, 
+.shuffle, .signpost, .smiley, .stamp, .star, 
+.subtract, .switch, .tv, .tag, .tape, 
+.text-alt, .text, .tick, .traffic-cone, .trophy, 
+.umbrella, .up, .volume-on, .wand, .warning, 
+.wrench, .icon-0003-cloud, .icon-0008-key, .icon-0010-inbox, .icon-0012-play, 
+.box, .plugin, .food, .lab, .lock, 
+.maps, .microphone-alt, .microphone, .milk, .mouse, 
+.page, .pause, .phone, .power, .refresh, 
+.teardrop, .female, .note, .cursor, .paperclip, 
+.ipod, .play, .volume-off, .wine
+{ display: inline-block; background: url('../img/black.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+
+.white {background: url('../img/white.png') ; }
+ 
+.basket { background-position: -2px -0px; width: 11px; height: 8px; }
+.pencil { background-position: -2px -10px; width: 11px; height: 10px; }
+.plane { background-position: -2px -22px; width: 11px; height: 10px; }
+.add { background-position: -2px -34px; width: 10px; height: 10px; }
+.afro { background-position: -2px -46px; width: 10px; height: 10px; }
+.album { background-position: -2px -58px; width: 10px; height: 10px; }
+.anchor { background-position: -2px -70px; width: 10px; height: 10px; }
+.android { background-position: -2px -82px; width: 10px; height: 10px; }
+.apple { background-position: -2px -94px; width: 10px; height: 10px; }
+.balloon { background-position: -2px -106px; width: 10px; height: 10px; }
+.battery { background-position: -2px -118px; width: 10px; height: 6px; }
+.bell { background-position: -2px -126px; width: 10px; height: 10px; }
+.bin { background-position: -2px -138px; width: 10px; height: 10px; }
+.binoculars { background-position: -2px -150px; width: 10px; height: 10px; }
+.boat { background-position: -2px -162px; width: 10px; height: 10px; }
+.briefcase-medical { background-position: -2px -174px; width: 10px; height: 10px; }
+.briefcase { background-position: -2px -186px; width: 10px; height: 10px; }
+.cd-alt { background-position: -2px -198px; width: 10px; height: 10px; }
+.cd { background-position: -2px -210px; width: 10px; height: 10px; }
+.calculator { background-position: -2px -222px; width: 10px; height: 10px; }
+.calendar { background-position: -2px -234px; width: 10px; height: 10px; }
+.call { background-position: -2px -246px; width: 10px; height: 10px; }
+.camera-alt { background-position: -2px -258px; width: 10px; height: 9px; }
+.camera { background-position: -2px -269px; width: 10px; height: 9px; }
+.car { background-position: -2px -280px; width: 10px; height: 10px; }
+.castle { background-position: -2px -292px; width: 10px; height: 10px; }
+.chrome { background-position: -2px -304px; width: 10px; height: 10px; }
+.clipboard { background-position: -2px -316px; width: 10px; height: 10px; }
+.clock { background-position: -2px -328px; width: 10px; height: 10px; }
+.clothes { background-position: -2px -340px; width: 10px; height: 10px; }
+.cloud { background-position: -2px -352px; width: 10px; height: 7px; }
+.coathanger { background-position: -2px -361px; width: 10px; height: 10px; }
+.comment { background-position: -2px -373px; width: 10px; height: 10px; }
+.compass { background-position: -2px -385px; width: 10px; height: 10px; }
+.computer { background-position: -2px -397px; width: 10px; height: 10px; }
+.contrast { background-position: -2px -409px; width: 10px; height: 10px; }
+.crop { background-position: -2px -421px; width: 10px; height: 10px; }
+.cross { background-position: -2px -433px; width: 10px; height: 10px; }
+.damn-hippies { background-position: -2px -445px; width: 10px; height: 10px; }
+.dashboard { background-position: -2px -457px; width: 10px; height: 10px; }
+.dice { background-position: -2px -469px; width: 10px; height: 10px; }
+.direction { background-position: -2px -481px; width: 10px; height: 10px; }
+.dislike { background-position: -2px -493px; width: 10px; height: 10px; }
+.down { background-position: -2px -505px; width: 10px; height: 10px; }
+.download { background-position: -2px -517px; width: 10px; height: 10px; }
+.drink { background-position: -2px -529px; width: 10px; height: 8px; }
+.dropdown { background-position: -2px -539px; width: 10px; height: 10px; }
+.email { background-position: -2px -551px; width: 10px; height: 8px; }
+.external-link { background-position: -2px -561px; width: 10px; height: 10px; }
+.face-alt { background-position: -2px -573px; width: 10px; height: 10px; }
+.factory { background-position: -2px -585px; width: 10px; height: 10px; }
+.film { background-position: -2px -597px; width: 10px; height: 10px; }
+.filter { background-position: -2px -609px; width: 10px; height: 10px; }
+.flag { background-position: -2px -621px; width: 10px; height: 10px; }
+.game { background-position: -2px -633px; width: 10px; height: 10px; }
+.gavel { background-position: -2px -645px; width: 10px; height: 10px; }
+.glasses { background-position: -2px -657px; width: 10px; height: 7px; }
+.globe { background-position: -2px -666px; width: 10px; height: 10px; }
+.guitar { background-position: -2px -678px; width: 10px; height: 10px; }
+.hand-cursor { background-position: -2px -690px; width: 10px; height: 10px; }
+.hardware { background-position: -2px -702px; width: 10px; height: 10px; }
+.headphones { background-position: -2px -714px; width: 10px; height: 9px; }
+.heart { background-position: -2px -725px; width: 10px; height: 9px; }
+.house { background-position: -2px -736px; width: 10px; height: 10px; }
+.inbox { background-position: -2px -748px; width: 10px; height: 9px; }
+.key { background-position: -2px -759px; width: 10px; height: 10px; }
+.lamp { background-position: -2px -771px; width: 10px; height: 10px; }
+.left { background-position: -2px -783px; width: 10px; height: 10px; }
+.life-ring { background-position: -2px -795px; width: 10px; height: 10px; }
+.lightbulb { background-position: -2px -807px; width: 10px; height: 10px; }
+.lightning { background-position: -2px -819px; width: 10px; height: 10px; }
+.like { background-position: -2px -831px; width: 10px; height: 10px; }
+.location-services { background-position: -2px -843px; width: 10px; height: 10px; }
+.loupe { background-position: -2px -855px; width: 10px; height: 10px; }
+.male { background-position: -2px -867px; width: 10px; height: 10px; }
+.moon { background-position: -2px -879px; width: 10px; height: 10px; }
+.notification { background-position: -2px -891px; width: 10px; height: 10px; }
+.paper-plane { background-position: -2px -903px; width: 10px; height: 10px; }
+.person { background-position: -2px -915px; width: 10px; height: 10px; }
+.photo { background-position: -2px -927px; width: 10px; height: 10px; }
+.pie-chart { background-position: -2px -939px; width: 10px; height: 10px; }
+.piggy-bank { background-position: -2px -951px; width: 10px; height: 10px; }
+.pok-ball { background-position: -2px -963px; width: 10px; height: 10px; }
+.printer-alt { background-position: -2px -975px; width: 10px; height: 10px; }
+.printer { background-position: -2px -987px; width: 10px; height: 10px; }
+.projector { background-position: -2px -999px; width: 10px; height: 10px; }
+.propeller { background-position: -2px -1011px; width: 10px; height: 10px; }
+.quick-look { background-position: -2px -1023px; width: 10px; height: 6px; }
+.quote { background-position: -2px -1031px; width: 10px; height: 10px; }
+.remove { background-position: -2px -1043px; width: 10px; height: 10px; }
+.reply { background-position: -2px -1055px; width: 10px; height: 7px; }
+.right { background-position: -2px -1064px; width: 10px; height: 10px; }
+.save { background-position: -2px -1076px; width: 10px; height: 10px; }
+.search { background-position: -2px -1088px; width: 10px; height: 10px; }
+.settings { background-position: -2px -1100px; width: 10px; height: 10px; }
+.shuffle { background-position: -2px -1112px; width: 10px; height: 8px; }
+.signpost { background-position: -2px -1122px; width: 10px; height: 10px; }
+.smiley { background-position: -2px -1134px; width: 10px; height: 10px; }
+.stamp { background-position: -2px -1146px; width: 10px; height: 10px; }
+.star { background-position: -2px -1158px; width: 10px; height: 10px; }
+.subtract { background-position: -2px -1170px; width: 10px; height: 10px; }
+.switch { background-position: -2px -1182px; width: 10px; height: 10px; }
+.tv { background-position: -2px -1194px; width: 10px; height: 10px; }
+.tag { background-position: -2px -1206px; width: 10px; height: 10px; }
+.tape { background-position: -2px -1218px; width: 10px; height: 7px; }
+.text-alt { background-position: -2px -1227px; width: 10px; height: 10px; }
+.text { background-position: -2px -1239px; width: 10px; height: 10px; }
+.tick { background-position: -2px -1251px; width: 10px; height: 7px; }
+.traffic-cone { background-position: -2px -1260px; width: 10px; height: 10px; }
+.trophy { background-position: -2px -1272px; width: 10px; height: 10px; }
+.umbrella { background-position: -2px -1284px; width: 10px; height: 10px; }
+.up { background-position: -2px -1296px; width: 10px; height: 10px; }
+.volume-on { background-position: -2px -1308px; width: 10px; height: 10px; }
+.wand { background-position: -2px -1320px; width: 10px; height: 10px; }
+.warning { background-position: -2px -1332px; width: 10px; height: 10px; }
+.wrench { background-position: -2px -1344px; width: 10px; height: 10px; }
+.icon-0003-cloud { background-position: -2px -1356px; width: 10px; height: 7px; }
+.icon-0008-key { background-position: -2px -1365px; width: 10px; height: 10px; }
+.icon-0010-inbox { background-position: -2px -1377px; width: 10px; height: 8px; }
+.icon-0012-play { background-position: -2px -1387px; width: 10px; height: 10px; }
+.box { background-position: -2px -1399px; width: 9px; height: 10px; }
+.plugin { background-position: -2px -1411px; width: 9px; height: 9px; }
+.food { background-position: -2px -1422px; width: 8px; height: 10px; }
+.lab { background-position: -2px -1434px; width: 8px; height: 10px; }
+.lock { background-position: -2px -1446px; width: 8px; height: 10px; }
+.maps { background-position: -2px -1458px; width: 8px; height: 10px; }
+.microphone-alt { background-position: -2px -1470px; width: 8px; height: 10px; }
+.microphone { background-position: -2px -1482px; width: 8px; height: 10px; }
+.milk { background-position: -2px -1494px; width: 8px; height: 10px; }
+.mouse { background-position: -2px -1506px; width: 8px; height: 10px; }
+.page { background-position: -2px -1518px; width: 8px; height: 10px; }
+.pause { background-position: -2px -1530px; width: 8px; height: 10px; }
+.phone { background-position: -2px -1542px; width: 8px; height: 10px; }
+.power { background-position: -2px -1554px; width: 8px; height: 9px; }
+.refresh { background-position: -2px -1565px; width: 8px; height: 10px; }
+.teardrop { background-position: -2px -1577px; width: 8px; height: 10px; }
+.female { background-position: -2px -1589px; width: 7px; height: 10px; }
+.note { background-position: -2px -1601px; width: 7px; height: 10px; }
+.cursor { background-position: -2px -1613px; width: 6px; height: 10px; }
+.paperclip { background-position: -2px -1625px; width: 6px; height: 10px; }
+.ipod { background-position: -2px -1637px; width: 6px; height: 10px; }
+.play { background-position: -2px -1649px; width: 5px; height: 10px; }
+.volume-off { background-position: -2px -1661px; width: 5px; height: 10px; }
+.wine { background-position: -2px -1673px; width: 4px; height: 10px; }
