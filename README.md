@@ -1,5 +1,9 @@
 ![Bijou Minimal Icons CSS Sprites](https://raw.githubusercontent.com/yasinkuyu/Bijou/master/screenshot.png)
 
+## Install
+
+ bower info Bijou
+
 ## Basic usage
 
 ### Black icon
