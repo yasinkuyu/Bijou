@@ -1,3 +1,7 @@
+Live Demos 
+- [http://yasinkuyu.github.io/Bijou/](http://yasinkuyu.github.io/Bijou/ "Yasin Kuyu")
+
+
 ![Bijou Minimal Icons CSS Sprites](https://raw.githubusercontent.com/yasinkuyu/Bijou/master/screenshot.png)
 
 ## Basic usage
