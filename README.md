@@ -172,12 +172,12 @@ Fork & Pull Request
 ### CSS Sprites
 
 - Yasin Kuyu 
-- [github.com/yasinkuyu/Bijou](github.com/yasinkuyu/Bijou "Yasin Kuyu")
-- [twitter.com/yasinkuyu](twitter.com/yasinkuyu "twitter")
+- [github.com/yasinkuyu/Bijou](https://github.com/yasinkuyu/Bijou "Yasin Kuyu")
+- [twitter.com/yasinkuyu](https://twitter.com/yasinkuyu "twitter")
 
 ### Icon Designer
 
 - Visual Idiot 
-- [https://github.com/idiot/Bijou](https://github.com/idiot/Bijou "idiot")
+- [github.com/idiot/Bijou](https://github.com/idiot/Bijou "idiot")
 
 
